@@ -45,3 +45,36 @@ Session: Mengelola sesi komunikasi.
 Presentation: Format data.
 
 Application: Interaksi dengan aplikasi pengguna.
+b. Model TCP/IP
+
+Model TCP/IP lebih sederhana dan terdiri dari 4 lapisan:
+
+Network Access: Koneksi fisik ke jaringan.
+
+Internet: Pengalamatan dan routing data.
+
+Transport: Pengiriman data antar host.
+
+Application: Layanan bagi pengguna.
+
+5. Protokol Jaringan
+
+Protokol jaringan adalah aturan yang digunakan untuk komunikasi antar perangkat. Beberapa protokol umum:
+
+TCP (Transmission Control Protocol): Memastikan data dikirim dengan aman dan lengkap.
+
+IP (Internet Protocol): Menentukan alamat tujuan data.
+
+HTTP/HTTPS (Hypertext Transfer Protocol/Secure): Digunakan untuk mengakses web.
+
+FTP (File Transfer Protocol): Digunakan untuk mengirim file antar perangkat.
+
+DNS (Domain Name System): Menerjemahkan nama domain ke alamat IP.
+
+6. Pengalamatan IP
+
+Setiap perangkat dalam jaringan memiliki alamat IP unik. Ada dua jenis alamat IP:
+
+IPv4: Contoh: 192.168.1.1
+
+IPv6: Contoh: 2001:db8::ff00:42:8329
