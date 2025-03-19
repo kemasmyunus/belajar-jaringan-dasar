@@ -13,3 +13,35 @@ LAN (Local Area Network): Jaringan dengan cakupan lokal, seperti dalam rumah, se
 MAN (Metropolitan Area Network): Jaringan yang mencakup area lebih luas dari LAN, biasanya dalam satu kota.
 
 WAN (Wide Area Network): Jaringan yang mencakup area sangat luas, seperti jaringan internet.
+
+3. Perangkat Jaringan
+
+Untuk membangun jaringan komputer, diperlukan beberapa perangkat utama, antara lain:
+
+Router: Menghubungkan jaringan lokal ke jaringan lain atau internet.
+
+Switch: Menghubungkan beberapa perangkat dalam satu jaringan lokal.
+
+Hub: Seperti switch, tetapi dengan kemampuan lebih terbatas.
+
+Modem: Mengubah sinyal digital menjadi sinyal analog dan sebaliknya untuk komunikasi internet.
+
+4. Model Referensi Jaringan
+
+a. Model OSI (Open Systems Interconnection)
+
+Model OSI memiliki 7 lapisan:
+
+Physical: Media transmisi fisik.
+
+Data Link: Protokol pengiriman antar perangkat langsung.
+
+Network: Penentuan rute data.
+
+Transport: Pengiriman data end-to-end.
+
+Session: Mengelola sesi komunikasi.
+
+Presentation: Format data.
+
+Application: Interaksi dengan aplikasi pengguna.
