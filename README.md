@@ -78,3 +78,16 @@ Setiap perangkat dalam jaringan memiliki alamat IP unik. Ada dua jenis alamat IP
 IPv4: Contoh: 192.168.1.1
 
 IPv6: Contoh: 2001:db8::ff00:42:8329
+7. Keamanan Jaringan
+
+Beberapa cara untuk meningkatkan keamanan jaringan:
+
+Menggunakan firewall.
+
+Menggunakan enkripsi data.
+
+Menggunakan VPN untuk koneksi aman.
+
+Mengupdate perangkat lunak secara berkala.
+
+
